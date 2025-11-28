@@ -4,7 +4,6 @@ You will find:
 - agent source
 - agent icon
 - agent image
-- banner for comms
 
 Current Version: v1.1 \
 Revision 28.11.2025 
@@ -12,7 +11,8 @@ Revision 28.11.2025
 - This agent can be set up easily and quick - only minutes to invest! Find a HowTo Video here: https://www.youtube.com/watch?v=OUJ2QMdkSmU 
 - Pro tip: also leverage the Microsoft 365 Learning Path to build a foundation, to be found in the according repository in this acount 
 
-<img width="303" height="304" alt="{2368D74A-2F84-4DE5-9AFA-7E71D13E4F7D}" src="https://github.com/user-attachments/assets/396fa48f-5689-4bb7-b3dc-1054f08ec14c" />
+<img width="250" height="250" alt="Back to work Ausgangsgröße" src="https://github.com/user-attachments/assets/fb01dcb9-f016-4e16-9358-e7238607c848" />
+
 
 
 Make a difference - set priority on accessibility - Workplace AI can help 💡
@@ -21,12 +21,16 @@ Make a difference - set priority on accessibility - Workplace AI can help 💡
 
 Issues, comments, recommondations? Let me know. Thanks for your contribution!
 
-<img width="420" height="468" alt="{E4FC4406-07F3-45C6-B057-ED5E08163A88}" src="https://github.com/user-attachments/assets/65dba3fb-78c3-44fd-9416-68fb37b2f8ee" />
-
+<img width="415" height="475" alt="{CF54DACC-7DA5-4D20-8868-2D0FED97F548}" src="https://github.com/user-attachments/assets/aa90d697-352a-48ab-9422-04b3d9fef70d" />
 
 once triggered, the daily flow starts
 
-<img width="397" height="380" alt="{6621D11E-5896-431C-A899-0ECB8F04FFAB}" src="https://github.com/user-attachments/assets/6d7a4479-9588-4eda-a279-74adc37d3fda" />
+<img width="415" height="317" alt="{59334AA0-0B41-44C7-9439-18941251AA84}" src="https://github.com/user-attachments/assets/d58cf0e3-8428-4e5a-b308-0b34b7e9cea7" />
+
+
+behaviour outside of campaign duration
+
+<img width="407" height="288" alt="{C4590F34-0341-476E-9776-4795ED057036}" src="https://github.com/user-attachments/assets/7bf74623-86a9-480b-bed5-b04acdd34402" />
 
 
 
