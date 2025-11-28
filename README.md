@@ -38,7 +38,7 @@ behaviour outside of campaign duration
 - this repository contains the necessary sources to create a declarative agent for Copilot Chat which delivers example prompts to users for 30 workdays
 - every single day is stuffed with a topic and a prompt example
 - ending in a fabulous final including the creation of a medal 🏅
-- to make interaction more engaging the agent also thows a random historic event that happened on the current day
+- to make interaction more engaging the agent also throws a random historic event that happened on the current day
 
 ## Remarks
 - as the instructions are simple - feel free to adapt as needed to meet your orgs needs (best: use simple mathematical actions for this to make sure it works properly)
