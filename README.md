@@ -74,7 +74,7 @@ This repository contains everything needed to create a declarative agent for Cop
 
 ### Step-by-Step Process - Manual setup
 
-1. **Download** the source file from this repository
+1. **Download** the source file [Agent source v1.1 - EN.md](./Agent%20source%20v1.1%20-%20EN.md) from this repository
 2. **Review and customize** content as needed (focus on content changes to maintain functionality)
 3. **Open** your preferred M365 Copilot agent builder tool (Agent Builder is sufficient)
 4. **Configure** your agent:
@@ -85,12 +85,20 @@ This repository contains everything needed to create a declarative agent for Cop
     - Upload a fun **icon** that users will love
 5. **Create** the agent
 6. **Test** with a limited group first
-7. **Deploy** organization-wide: [Deployment Guide](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-copilot-agents-integrated-apps?view=o365-worldwide)
-8. **Pin** for maximum visibility: [Pinning Guide](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-pinning-agents?view=o365-worldwide)
+7. **Deploy** organization-wide: [online Deployment Guide](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-copilot-agents-integrated-apps?view=o365-worldwide)
+8. **Pin** for maximum visibility: [online Pinning Guide](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-pinning-agents?view=o365-worldwide)
 
 ### Step-by-Step Process - Automated setup (Power Platform)
 
-> **Coming Soon:** Check back later for a Power Platform solution package to automate the setup process!
+1. **Download** the solution package [BackToWork-Agent_Package.zip](./Power%20Platform%20Solution/BackToWork-Agent_Package.zip) from the [Power Platform Solution folder](./Power%20Platform%20Solution/)
+2. **Follow** the detailed deployment steps in [Back to Work Agent - Setup and Deployment documentation.pdf](./Back%20to%20Work%20Agent%20-%20Setup%20and%20Deployment%20documentation.pdf)
+3. **Configure** the Power Automate flow to send daily nudges:
+  - Use an Entra Security Group for user targeting, or
+  - Use the provided [Excel file example](./Power%20Platform%20Solution/BackToWork-Agent_UserList.xlsx) from the "Power Platform Solution" folder
+4. **Test** the automated daily engagement flow
+5. **Deploy** and monitor user engagement
+
+> **Advantage:** The Power Automate flow automatically sends daily nudges to encourage users to check out the daily content, maximizing campaign participation.
 
 ### Launch Strategy
 
