@@ -15,6 +15,10 @@ Start with the "Campaign Overview" PDF in this repository to understand approach
 **Current Version:** v1.1  
 **Last Updated:** November 30, 2025
 
+<img width="609" height="367" alt="{0E46E65A-2A4B-425E-B458-2447E1CA8FEB}" src="https://github.com/user-attachments/assets/5e0ae2a8-2a14-427b-8cff-dbe78aa5fbaf" />
+<img width="687" height="312" alt="{63C0F4AE-B175-49EE-B1EE-C5C6B9E865BF}" src="https://github.com/user-attachments/assets/f32e19dd-6dda-4346-8bbb-38e691032013" />
+
+
 ## 🎯 Quick Start
 
 ### Setup (Only Takes Minutes!)
@@ -27,7 +31,6 @@ Start with the "Campaign Overview" PDF in this repository to understand approach
 - **Check Out the complete setup and deployment documentation in this repository for options 2 and 3
 - **Pro Tip:** Leverage the Microsoft 365 Learning Path for a solid foundation (check other repositories in this account)
 
-<img width="250" height="250" alt="Back to work agent preview" src="https://github.com/user-attachments/assets/fb01dcb9-f016-4e16-9358-e7238607c848" />
 
 ## ♿ Make a Difference - Prioritize Accessibility
 
